@@ -1,0 +1,19 @@
+{
+  "name": "curso-basico-javascript-consumo-api",
+  "version": "1.0.0",
+  "description": "Curso Basico de JAVASCRIPT Consumo de API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatheGonzalez/Curso-Basico-JavaScript-Consumo-API.git"
+  },
+  "author": "Diana Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KatheGonzalez/Curso-Basico-JavaScript-Consumo-API/issues"
+  },
+  "homepage": "https://github.com/KatheGonzalez/Curso-Basico-JavaScript-Consumo-API#readme"
+}
